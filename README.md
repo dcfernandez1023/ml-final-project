@@ -7,11 +7,9 @@ Link to final presentation slides: https://docs.google.com/presentation/d/1SWTho
 
 ## Overview
 ### The Goal
-
     Determine the best stock market sector to invest till March 2023  based on past performance.
 
 ### Why?
-
     Investing in the stock market can be risky, especially investing into a single company. However, this risk can be mitigated by investing into a sector instead of an individual stock.
 
 ## How?
@@ -41,9 +39,10 @@ To obtain the data and train the model, follow these steps:
 - Running `python build_index.py` will populate data and PDF plots in the `indexes` directory.
 - Running the `sector_index_predictions.ipynb` jupyter notebook will populate data and PDF plots in the  `predictions` directory.
 
-
-
-
-
-
-
+## Python Libraries and Packages Used
+- selenium: https://pypi.org/project/selenium/
+- yfinance : https://pypi.org/project/yfinance/
+- pandas: https://pandas.pydata.org/
+- scikit-learn: https://scikit-learn.org/stable/
+- matplotlib: https://matplotlib.org/
+- tensorflow: https://www.tensorflow.org/
