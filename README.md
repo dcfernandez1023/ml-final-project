@@ -10,9 +10,11 @@ Link to final presentation slides: https://docs.google.com/presentation/d/1SWTho
     Determine the best stock market sector to invest till March 2023  based on past performance.
 
 ### Why?
-    Investing in the stock market can be risky, especially investing into a single company. However, this risk can be mitigated by investing into a sector instead of an individual stock.
+    Investing in the stock market can be risky, especially investing into a single company. 
+    
+    However, this risk can be mitigated by investing into a sector instead of an individual stock.
 
-## How?
+### How?
 
     Gathering data and building an index on each of the 11 sectors:
         - Industrials
