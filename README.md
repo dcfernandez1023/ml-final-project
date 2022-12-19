@@ -5,6 +5,11 @@ By: Dom and Pranay
 
 Link to final presentation slides: https://docs.google.com/presentation/d/1SWThoOwOEdIcIeWmRG9j4CkstEbZu5YObayLIEWEif8/edit?usp=sharing
 
+## Predictions of the Future
+![Predictions](prediction.png)
+
+![Future](future.png)
+
 ## Overview
 ### The Goal
     Determine the best stock market sector to invest till March 2023  based on past performance.
